@@ -1,2 +1,2 @@
 #!/bin/bash
-du -t1 | head -n 10 | sort
+ls -t1 | head -n 10 | sort
